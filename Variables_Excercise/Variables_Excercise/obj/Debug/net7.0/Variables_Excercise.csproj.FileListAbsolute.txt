@@ -1,0 +1,15 @@
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.csproj.AssemblyReference.cache
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.AssemblyInfoInputs.cache
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.AssemblyInfo.cs
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\bin\Debug\net7.0\Variables_Excercise.exe
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\bin\Debug\net7.0\Variables_Excercise.deps.json
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\bin\Debug\net7.0\Variables_Excercise.runtimeconfig.json
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\bin\Debug\net7.0\Variables_Excercise.dll
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\bin\Debug\net7.0\Variables_Excercise.pdb
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.dll
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\refint\Variables_Excercise.dll
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.pdb
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\Variables_Excercise.genruntimeconfig.cache
+C:\Users\tucso\repos\Variables-Exercise\Variables_Excercise\Variables_Excercise\obj\Debug\net7.0\ref\Variables_Excercise.dll
